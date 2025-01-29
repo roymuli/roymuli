@@ -1,4 +1,6 @@
 # About me: 
+“In God we trust. All others must bring data.” – W. Edwards Deming
+
 Albanus Muli is a highly skilled data analyst with a Bachelor's degree in Commerce, specializing in business data analysis. He is proficient in Python, SQL, and Excel, using these tools to extract insights, optimize decision-making, and solve complex business challenges. 
 - 👀 I’m interested in data management, collection, cleaning and analyzing
 - 🌱 I’m currently learning machine learning (Predictive Analysis)
